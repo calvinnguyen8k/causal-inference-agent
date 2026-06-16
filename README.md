@@ -2,7 +2,6 @@
 
 An interactive Streamlit web app for **causal structure discovery** and **causal effect estimation**.
 
-🔗 **Live demo:** [causalinferenceagent.streamlit.app](https://causalinferenceagent.streamlit.app)
 
 ---
 
